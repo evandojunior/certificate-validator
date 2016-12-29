@@ -4,8 +4,8 @@ Uma solução para extrair os dados do certificado digital A1
 
 # Modo de uso
 
-```<?php
-
+```php
+<?php
 require_once vendor/autoload.php;
 
 use EvandoJunior\CertificateValidator;
@@ -20,7 +20,7 @@ var_dump($certificado);
 ```
 
 Você terá uma array com os indices:
-```
+```php
 model =>  o modelo do certificado digital
 company_owner =>  o dono do certificado digital,
 cnpj =>  CNPJ da empresa dona do certificado,
