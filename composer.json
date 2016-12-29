@@ -1,7 +1,6 @@
 {
     "name": "evandojunior/certificatevalidator",
     "description": "Validação de dados do certificado digital A1",
-    "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {
