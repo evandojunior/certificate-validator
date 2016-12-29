@@ -1,0 +1,19 @@
+{
+    "name": "evandojunior/certificatevalidator",
+    "description": "Validação de dados do certificado digital A1",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evando Junior",
+            "email": "evando.junior@live.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "EvandoJunior\\": "src/"
+        }
+    }
+}
