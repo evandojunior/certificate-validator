@@ -36,6 +36,9 @@ expired=> booleano, se o certificado estiver vencido ou não
 
 # JSON ou ARRAY
 Caso você queira retornar um JSON 
-é só passar uma string "json" no ``` $return_type ```
+é só passar uma string "json" no 
+```php
+$return_type 
+```
 
 ### Espero que seja útil o quanto é para mim :)
