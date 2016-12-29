@@ -20,7 +20,7 @@ var_dump($certificado);
 ```
 
 Você terá uma array com os indices:
-
+```
 model =>  o modelo do certificado digital
 company_owner =>  o dono do certificado digital,
 cnpj =>  CNPJ da empresa dona do certificado,
@@ -32,6 +32,7 @@ country => país,
 creation_date => data de criação no formato (Y-m-d),
 due_date => data de vencimento no formato (Y-m-d),
 expired=> booleano, se o certificado estiver vencido ou não
+```
 
 # JSON ou ARRAY
 Caso você queira retornar um JSON 
